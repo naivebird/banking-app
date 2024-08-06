@@ -1,6 +1,5 @@
 package com.example.bankingapp.dto;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
